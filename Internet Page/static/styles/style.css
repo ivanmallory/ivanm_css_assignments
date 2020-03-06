@@ -1,0 +1,140 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  margin: auto;
+  width: 1000px;
+  height: 1000px;
+  font-family: Arial;
+  font-weight: normal;
+  background-color: lightgrey;
+}
+
+.container a {
+  text-decoration: none;
+  color: white;
+}
+
+.container .header {
+  margin: 15px 15px 0 15px;
+}
+
+.container #globe {
+  width: 80px;
+  position: absolute;
+}
+
+.container h1 {
+  margin: 20px 0 0 80px;
+  display: inline-block;
+  vertical-align: top;
+  color: grey;
+}
+
+.container h1 span {
+  color: blue;
+}
+
+.container #title {
+  padding: 15px 20px 15px 20px;
+  color: white;
+  background-color: royalblue;
+}
+
+.container .sidebar {
+  width: 200px;
+  height: 600px;
+  display: inline-block;
+}
+
+.container .sidebar h4 {
+  margin: 5px;
+}
+
+.container .sidebar span {
+  color: blue;
+}
+
+.container .sidebar p {
+  font-size: 14px;
+  margin: 5px;
+}
+
+.container .sidebar #video {
+  margin-left: 10px;
+  padding: 10px;
+  width: 160px;
+  text-align: center;
+  display: block;
+  background-color: royalblue;
+  border-radius: 8px;
+}
+
+.container .sidebar #resources {
+  margin: 5px 0 5px 10px;
+  width: 160px;
+  padding: 10px;
+  text-align: center;
+  display: block;
+  background-color: orange;
+  border-radius: 8px;
+}
+
+.container .sidebar .ad {
+  width: 200px;
+  height: 300px;
+  margin-top: 5px;
+  background-image: url("../images/ad_background.png");
+}
+
+.container .sidebar .ad h3 {
+  color: white;
+  text-align: center;
+  padding: 20px 10px 10px 10px;
+  font-size: 22px;
+}
+
+.container .sidebar .ad #ninja {
+  width: 80px;
+  display: block;
+  margin-left: 60px;
+}
+
+.container .sidebar .ad #learn {
+  margin: 20px 0 0 15px;
+  width: 160px;
+  padding: 5px;
+  text-align: center;
+  display: block;
+  background-color: lightblue;
+  border-radius: 5px;
+}
+
+.container .contact {
+  width: 700px;
+  height: 100px;
+  margin: 10px 30px 10px 30px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.container .contact #home {
+  width: 20px;
+}
+
+.container .contact h4 {
+  display: inline-block;
+  color: royalblue;
+}
+
+.container .contact .contact_info {
+  width: 200px;
+  margin-left: 300px;
+}
+
+.container .contact .contact_info #phone {
+  width: 60px;
+}
+/*# sourceMappingURL=style.css.map */
